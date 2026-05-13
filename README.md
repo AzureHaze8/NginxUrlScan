@@ -28,7 +28,7 @@
 - 必须包含两个表头：<mark>对外映射列在前，填写公网IP地址；内网服务池列在后，填写对应的内网IP地址</mark>，一个公网地址可以对应多个内网IP。
 - IP地址为纯IPv4地址，不加入中文、空格等其他字符。
 
-![](.\images\Snipaste_2025-12-22_17-08-00.png)
+![](./images/Snipaste_2025-12-22_17-08-00.png)
 
 ### (3). 注意：
 
@@ -62,4 +62,4 @@ go run nginx_url_scan.go -dir .\conf\ -load template.csv -out results.csv
 
 运行结果如下：
 
-![](.\images\Snipaste_2025-12-22_17-14-35.png)
+![](./images/Snipaste_2025-12-22_17-14-35.png)
