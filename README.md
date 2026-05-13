@@ -63,4 +63,3 @@ go run nginx_url_scan.go -dir .\conf\ -load template.csv -out results.csv
 运行结果如下：
 
 ![](.\images\Snipaste_2025-12-22_17-14-35.png)
-"# NginxUrlScan" 
